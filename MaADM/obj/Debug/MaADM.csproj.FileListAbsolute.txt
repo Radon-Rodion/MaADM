@@ -1,0 +1,10 @@
+F:\Coding\C#\MaADM\MaADM\bin\Debug\MaADM.exe.config
+F:\Coding\C#\MaADM\MaADM\bin\Debug\MaADM.exe
+F:\Coding\C#\MaADM\MaADM\bin\Debug\MaADM.pdb
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.csproj.AssemblyReference.cache
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.Form1.resources
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.Properties.Resources.resources
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.csproj.GenerateResource.cache
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.csproj.CoreCompileInputs.cache
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.exe
+F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.pdb
