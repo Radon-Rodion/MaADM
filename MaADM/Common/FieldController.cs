@@ -74,8 +74,9 @@ namespace MaADM.Common
                 UpdateBitmap(bitmap);
             };
             Algorythm.Prepare(elementsList, repaintElements);
-            Task task = new Task(() => Algorythm.PerformIteration(elementsList));
-            task.Start();
+            Algorythm.PerformIteration(elementsList);
+            /*Task task = new Task(() => );
+            task.Start();*/
         }
 
         private void ClearField(Size size)

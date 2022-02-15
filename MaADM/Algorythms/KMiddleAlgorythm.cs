@@ -35,7 +35,7 @@ namespace MaADM.Algorythms
             {
                 PlaceCoreElement(core.X, core.Y);
             }
-            Thread.Sleep(1000);
+            //Thread.Sleep(1000);
             for(int i=0; i<newCoresArray.Length; i++)
             {
                 if (newCoresArray[i].X != coreElementsArray[i].X || newCoresArray[i].Y != coreElementsArray[i].Y)

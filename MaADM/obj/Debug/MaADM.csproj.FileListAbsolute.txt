@@ -8,3 +8,23 @@ F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.csproj.GenerateResource.cache
 F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.csproj.CoreCompileInputs.cache
 F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.exe
 F:\Coding\C#\MaADM\MaADM\obj\Debug\MaADM.pdb
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\bin\Debug\MaADM.exe.config
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\bin\Debug\MaADM.exe
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\bin\Debug\MaADM.pdb
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.Form1.resources
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.Properties.Resources.resources
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.csproj.GenerateResource.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.exe
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM-main\MaADM\obj\Debug\MaADM.pdb
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\bin\Debug\MaADM.exe.config
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\bin\Debug\MaADM.exe
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\bin\Debug\MaADM.pdb
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.csproj.AssemblyReference.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.Form1.resources
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.Properties.Resources.resources
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.csproj.GenerateResource.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.csproj.CoreCompileInputs.cache
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.exe
+C:\Users\HP Pavilion\Desktop\Admin Tools\MaADM\MaADM\obj\Debug\MaADM.pdb
